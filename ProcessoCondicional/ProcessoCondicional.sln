@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerificarNumeroMaiorQue10", "VerificarNumeroMaiorQue10\VerificarNumeroMaiorQue10.csproj", "{B0068571-5201-48C7-A522-53A2760DE0C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeEstiverChovendo", "SeEstiverChovendo\SeEstiverChovendo.csproj", "{0D4E21E0-B6D0-47F3-BD71-EA5D245F702C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B0068571-5201-48C7-A522-53A2760DE0C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0068571-5201-48C7-A522-53A2760DE0C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0068571-5201-48C7-A522-53A2760DE0C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D4E21E0-B6D0-47F3-BD71-EA5D245F702C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D4E21E0-B6D0-47F3-BD71-EA5D245F702C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D4E21E0-B6D0-47F3-BD71-EA5D245F702C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D4E21E0-B6D0-47F3-BD71-EA5D245F702C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,5 @@
+C:\Users\thiag\Documents\Algoritmos-Diversos\ProcessoCondicional\SeEstiverChovendo\bin\Debug\SeEstiverChovendo.exe.config
+C:\Users\thiag\Documents\Algoritmos-Diversos\ProcessoCondicional\SeEstiverChovendo\bin\Debug\SeEstiverChovendo.exe
+C:\Users\thiag\Documents\Algoritmos-Diversos\ProcessoCondicional\SeEstiverChovendo\bin\Debug\SeEstiverChovendo.pdb
+C:\Users\thiag\Documents\Algoritmos-Diversos\ProcessoCondicional\SeEstiverChovendo\obj\Debug\SeEstiverChovendo.exe
+C:\Users\thiag\Documents\Algoritmos-Diversos\ProcessoCondicional\SeEstiverChovendo\obj\Debug\SeEstiverChovendo.pdb
