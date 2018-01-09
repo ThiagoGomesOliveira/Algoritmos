@@ -1,0 +1,6 @@
+C:\Users\thiag\Documents\Algoritmos-Diversos\SolucaoAlgoritmo1\EstoqueMedio\bin\Debug\EstoqueMedio.exe.config
+C:\Users\thiag\Documents\Algoritmos-Diversos\SolucaoAlgoritmo1\EstoqueMedio\bin\Debug\EstoqueMedio.exe
+C:\Users\thiag\Documents\Algoritmos-Diversos\SolucaoAlgoritmo1\EstoqueMedio\bin\Debug\EstoqueMedio.pdb
+C:\Users\thiag\Documents\Algoritmos-Diversos\SolucaoAlgoritmo1\EstoqueMedio\obj\Debug\EstoqueMedio.csprojResolveAssemblyReference.cache
+C:\Users\thiag\Documents\Algoritmos-Diversos\SolucaoAlgoritmo1\EstoqueMedio\obj\Debug\EstoqueMedio.exe
+C:\Users\thiag\Documents\Algoritmos-Diversos\SolucaoAlgoritmo1\EstoqueMedio\obj\Debug\EstoqueMedio.pdb
