@@ -1,0 +1,6 @@
+C:\Users\thiag\Documents\Algoritmos-Diversos\SolucaoAlgoritmo1\CalculoEstoque\bin\Debug\CalculoEstoque.exe.config
+C:\Users\thiag\Documents\Algoritmos-Diversos\SolucaoAlgoritmo1\CalculoEstoque\bin\Debug\CalculoEstoque.exe
+C:\Users\thiag\Documents\Algoritmos-Diversos\SolucaoAlgoritmo1\CalculoEstoque\bin\Debug\CalculoEstoque.pdb
+C:\Users\thiag\Documents\Algoritmos-Diversos\SolucaoAlgoritmo1\CalculoEstoque\obj\Debug\CalculoEstoque.csprojResolveAssemblyReference.cache
+C:\Users\thiag\Documents\Algoritmos-Diversos\SolucaoAlgoritmo1\CalculoEstoque\obj\Debug\CalculoEstoque.exe
+C:\Users\thiag\Documents\Algoritmos-Diversos\SolucaoAlgoritmo1\CalculoEstoque\obj\Debug\CalculoEstoque.pdb
