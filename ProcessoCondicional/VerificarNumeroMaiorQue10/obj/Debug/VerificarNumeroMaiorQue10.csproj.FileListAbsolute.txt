@@ -1,0 +1,5 @@
+C:\Users\thiag\Documents\Algoritmos-Diversos\ProcessoCondicional\VerificarNumeroMaiorQue10\bin\Debug\VerificarNumeroMaiorQue10.exe.config
+C:\Users\thiag\Documents\Algoritmos-Diversos\ProcessoCondicional\VerificarNumeroMaiorQue10\bin\Debug\VerificarNumeroMaiorQue10.exe
+C:\Users\thiag\Documents\Algoritmos-Diversos\ProcessoCondicional\VerificarNumeroMaiorQue10\bin\Debug\VerificarNumeroMaiorQue10.pdb
+C:\Users\thiag\Documents\Algoritmos-Diversos\ProcessoCondicional\VerificarNumeroMaiorQue10\obj\Debug\VerificarNumeroMaiorQue10.exe
+C:\Users\thiag\Documents\Algoritmos-Diversos\ProcessoCondicional\VerificarNumeroMaiorQue10\obj\Debug\VerificarNumeroMaiorQue10.pdb
