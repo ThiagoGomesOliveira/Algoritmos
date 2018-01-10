@@ -1,0 +1,6 @@
+C:\Users\thiag\Documents\Algoritmos-Diversos\ProcessoCondicional\numeroMaiorVinte\bin\Debug\numeroMaiorVinte.exe.config
+C:\Users\thiag\Documents\Algoritmos-Diversos\ProcessoCondicional\numeroMaiorVinte\bin\Debug\numeroMaiorVinte.exe
+C:\Users\thiag\Documents\Algoritmos-Diversos\ProcessoCondicional\numeroMaiorVinte\bin\Debug\numeroMaiorVinte.pdb
+C:\Users\thiag\Documents\Algoritmos-Diversos\ProcessoCondicional\numeroMaiorVinte\obj\Debug\numeroMaiorVinte.csprojResolveAssemblyReference.cache
+C:\Users\thiag\Documents\Algoritmos-Diversos\ProcessoCondicional\numeroMaiorVinte\obj\Debug\numeroMaiorVinte.exe
+C:\Users\thiag\Documents\Algoritmos-Diversos\ProcessoCondicional\numeroMaiorVinte\obj\Debug\numeroMaiorVinte.pdb

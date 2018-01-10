@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerificarNumeroMaiorQue10",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeEstiverChovendo", "SeEstiverChovendo\SeEstiverChovendo.csproj", "{0D4E21E0-B6D0-47F3-BD71-EA5D245F702C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numeroMaiorVinte", "numeroMaiorVinte\numeroMaiorVinte.csproj", "{D67FB129-89DF-4863-B2DE-EAC7D8F7E577}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0D4E21E0-B6D0-47F3-BD71-EA5D245F702C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D4E21E0-B6D0-47F3-BD71-EA5D245F702C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D4E21E0-B6D0-47F3-BD71-EA5D245F702C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D67FB129-89DF-4863-B2DE-EAC7D8F7E577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D67FB129-89DF-4863-B2DE-EAC7D8F7E577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D67FB129-89DF-4863-B2DE-EAC7D8F7E577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D67FB129-89DF-4863-B2DE-EAC7D8F7E577}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
