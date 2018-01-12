@@ -1,0 +1,6 @@
+C:\Users\thiag\Documents\Algoritmos-Diversos\ProcessoCondicional\NumeroEntreVinteNoventa\bin\Debug\NumeroEntreVinteNoventa.exe.config
+C:\Users\thiag\Documents\Algoritmos-Diversos\ProcessoCondicional\NumeroEntreVinteNoventa\bin\Debug\NumeroEntreVinteNoventa.exe
+C:\Users\thiag\Documents\Algoritmos-Diversos\ProcessoCondicional\NumeroEntreVinteNoventa\bin\Debug\NumeroEntreVinteNoventa.pdb
+C:\Users\thiag\Documents\Algoritmos-Diversos\ProcessoCondicional\NumeroEntreVinteNoventa\obj\Debug\NumeroEntreVinteNoventa.csprojResolveAssemblyReference.cache
+C:\Users\thiag\Documents\Algoritmos-Diversos\ProcessoCondicional\NumeroEntreVinteNoventa\obj\Debug\NumeroEntreVinteNoventa.exe
+C:\Users\thiag\Documents\Algoritmos-Diversos\ProcessoCondicional\NumeroEntreVinteNoventa\obj\Debug\NumeroEntreVinteNoventa.pdb
