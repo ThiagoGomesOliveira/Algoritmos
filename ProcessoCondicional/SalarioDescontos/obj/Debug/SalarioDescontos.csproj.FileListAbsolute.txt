@@ -1,0 +1,6 @@
+C:\Users\thiag\Documents\Algoritmos-Diversos\ProcessoCondicional\SalarioDescontos\bin\Debug\SalarioDescontos.exe.config
+C:\Users\thiag\Documents\Algoritmos-Diversos\ProcessoCondicional\SalarioDescontos\bin\Debug\SalarioDescontos.exe
+C:\Users\thiag\Documents\Algoritmos-Diversos\ProcessoCondicional\SalarioDescontos\bin\Debug\SalarioDescontos.pdb
+C:\Users\thiag\Documents\Algoritmos-Diversos\ProcessoCondicional\SalarioDescontos\obj\Debug\SalarioDescontos.csprojResolveAssemblyReference.cache
+C:\Users\thiag\Documents\Algoritmos-Diversos\ProcessoCondicional\SalarioDescontos\obj\Debug\SalarioDescontos.exe
+C:\Users\thiag\Documents\Algoritmos-Diversos\ProcessoCondicional\SalarioDescontos\obj\Debug\SalarioDescontos.pdb
