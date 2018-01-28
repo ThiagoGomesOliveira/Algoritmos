@@ -1,0 +1,6 @@
+C:\Users\thiag\Documents\Algoritmos-Diversos\ProcessoCondicional\ProdutoComLucro\bin\Debug\ProdutoComLucro.exe.config
+C:\Users\thiag\Documents\Algoritmos-Diversos\ProcessoCondicional\ProdutoComLucro\bin\Debug\ProdutoComLucro.exe
+C:\Users\thiag\Documents\Algoritmos-Diversos\ProcessoCondicional\ProdutoComLucro\bin\Debug\ProdutoComLucro.pdb
+C:\Users\thiag\Documents\Algoritmos-Diversos\ProcessoCondicional\ProdutoComLucro\obj\Debug\ProdutoComLucro.csprojResolveAssemblyReference.cache
+C:\Users\thiag\Documents\Algoritmos-Diversos\ProcessoCondicional\ProdutoComLucro\obj\Debug\ProdutoComLucro.exe
+C:\Users\thiag\Documents\Algoritmos-Diversos\ProcessoCondicional\ProdutoComLucro\obj\Debug\ProdutoComLucro.pdb
