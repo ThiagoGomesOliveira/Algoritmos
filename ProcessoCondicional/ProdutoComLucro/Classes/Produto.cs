@@ -19,7 +19,7 @@ namespace ProdutoComLucro.Classes
 
         private double CalcularLucroProduto(long valor)
         {
-
+            //teste
             if (valor < 20)
             {
               var produtoPorcentagem = PorcentagemProdutoCinquentaPorCento();
